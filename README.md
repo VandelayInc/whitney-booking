@@ -1,6 +1,6 @@
 # Hacknb
 
-> ![Service Mockup](https://imgur.com/a/DL95eMh)
+> ![alt text](https://i.imgur.com/bDiGWdb.png)
 
 ## Related Projects
 
