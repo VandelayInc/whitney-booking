@@ -4,10 +4,10 @@
 
 ## Related Projects
 
-  - https://github.com/hacknb/repo
-  - https://github.com/hacknb/repo
-  - https://github.com/hacknb/repo
-  - https://github.com/hacknb/repo
+  - https://github.com/VandelayInc/description_service
+  - https://github.com/VandelayInc/neighborhood-map-service
+  - https://github.com/VandelayInc/reviews-service
+  - https://github.com/VandelayInc/booking-service
 
 ## Table of Contents
 
@@ -30,10 +30,9 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 
 ### Installing Dependencies
 
-From within the root directory:
+Make sure MongoDB is started. From within the root directory:
 
-```sh
-npm install -g webpack
-npm install
-```
+$ npm install
+$ npm start
+
 
